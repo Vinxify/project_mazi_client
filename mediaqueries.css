@@ -1,0 +1,15 @@
+@media (max-width: 450px) {
+  html {
+    font-size: 55%;
+  }
+
+  .form {
+    min-width: none;
+    width: 99vw;
+    padding: 2%;
+  }
+
+  .form input {
+    width: 95%;
+  }
+}
